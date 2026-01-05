@@ -28,6 +28,7 @@ Clone or download the script:
     python drawing_ideas.py
 
 No additional libraries required! Uses only Python's standard library.
+
 📋 How to Use
 
 When you run the script, you'll see an interactive menu with these options:
