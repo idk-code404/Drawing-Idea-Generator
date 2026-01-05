@@ -48,11 +48,11 @@ Exit - End the program
 
 The script generates creative prompts like:
 
-    "Draw a dragon discovering something in a neon-lit rainstorm in pixel art style"
+"Draw a dragon discovering something in a neon-lit rainstorm in pixel art style"
 
-    "Create a mysterious illustration: a wizard exploring a sunken cathedral. Draw it without lifting your pen"
+"Create a mysterious illustration: a wizard exploring a sunken cathedral. Draw it without lifting your pen"
 
-    "Art challenge: a robot in a forest where trees grow upside down. Use only geometric shapes with a monochromatic color scheme"
+"Art challenge: a robot in a forest where trees grow upside down. Use only geometric shapes with a monochromatic color scheme"
 
 📝 Requirements
 
@@ -64,12 +64,12 @@ No external dependencies
 
 Feel free to fork and modify! Some ideas for improvements:
 
-    Add more subjects/actions/settings
+Add more subjects/actions/settings
 
-    Create themed idea packs
+Create themed idea packs
 
-    Add color palette suggestions
+Add color palette suggestions
 
-    Export ideas to a text file
+Export ideas to a text file
 
-    Create a web version
+Create a web version
