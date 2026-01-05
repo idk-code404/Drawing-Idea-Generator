@@ -3,46 +3,46 @@
 A fun Python script that generates random drawing prompts to spark your creativity and overcome artist's block.
 ✨ Features
 
-    Generates unique drawing ideas with different themes and styles
+Generates unique drawing ideas with different themes and styles
 
-    Multiple idea categories (simple, scenes, challenges, mood-based)
+Multiple idea categories (simple, scenes, challenges, mood-based)
 
-    Tracks your idea history
+Tracks your idea history
 
-    Creates 5-day drawing challenges
+Creates 5-day drawing challenges
 
-    Interactive terminal interface with typing effects
+Interactive terminal interface with typing effects
 
 🚀 Quick Start
 
-    Clone or download the script:
+Clone or download the script:
 
-bash
+    bash
 
-git clone https://github.com/yourusername/drawing-idea-generator.git
+    git clone https://github.com/yourusername/drawing-idea-generator.git
 
     Run the script (requires Python 3):
 
-bash
+    bash
 
-python drawing_ideas.py
+    python drawing_ideas.py
 
 No additional libraries required! Uses only Python's standard library.
 📋 How to Use
 
 When you run the script, you'll see an interactive menu with these options:
 
-    Generate a random drawing idea - Get a completely random prompt
+Generate a random drawing idea - Get a completely random prompt
 
-    Generate a specific type of idea - Choose from categories like scenes, challenges, etc.
+Generate a specific type of idea - Choose from categories like scenes, challenges, etc.
 
-    View your idea history - See all ideas generated in your session
+View your idea history - See all ideas generated in your session
 
-    Get a 5-day drawing challenge - Generate a week's worth of prompts
+Get a 5-day drawing challenge - Generate a week's worth of prompts
 
-    Clear screen - Clean up the terminal
+Clear screen - Clean up the terminal
 
-    Exit - End the program
+Exit - End the program
 
 🎭 Example Ideas
 
@@ -56,9 +56,9 @@ The script generates creative prompts like:
 
 📝 Requirements
 
-    Python 3.x
+Python 3.x
 
-    No external dependencies
+No external dependencies
 
 🤝 Contributing
 
